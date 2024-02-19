@@ -1,4 +1,4 @@
-## El siguiente proyecto busca ahondar y reforzar los conocimientos en los espacios vectoriales complejos. Esto será una gran ventaja para luego poder aplicar los conocimientos en similaciones de sistemas cuánticos.
+# El siguiente proyecto busca ahondar y reforzar los conocimientos en los espacios vectoriales complejos. Esto será una gran ventaja para luego poder aplicar los conocimientos en similaciones de sistemas cuánticos.
 
 ## Ahora bien, el proyecto se encuentra divido en tres partes.
 ##   1. Operaciones en espacios vectoriales complejos.
